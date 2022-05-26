@@ -1,0 +1,10 @@
+Methods:
+   -GET
+   -POST
+   -OPTIONS
+Published files:
+   -index.html
+   -text.txt
+Error pages:
+   -404
+   -501
